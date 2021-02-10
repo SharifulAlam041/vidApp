@@ -1,0 +1,27 @@
+{
+  "name": "vidapp",
+  "version": "1.0.0",
+  "description": "Movie collection app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharifulAlam041/vidApp.git"
+  },
+  "keywords": [
+    "Node",
+    "JS"
+  ],
+  "author": "Shariful Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharifulAlam041/vidApp/issues"
+  },
+  "homepage": "https://github.com/SharifulAlam041/vidApp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
